@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjercicioJUnit01CalculadoraDeDescuentosGuia9/EjercicioJUnit01CalculadoraDeDescuentosGuia9.iml" filepath="$PROJECT_DIR$/EjercicioJUnit01CalculadoraDeDescuentosGuia9/EjercicioJUnit01CalculadoraDeDescuentosGuia9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proyecto JUnit.iml" filepath="$PROJECT_DIR$/Proyecto JUnit.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestConJUnit/TestConJUnit.iml" filepath="$PROJECT_DIR$/TestConJUnit/TestConJUnit.iml" />
     </modules>

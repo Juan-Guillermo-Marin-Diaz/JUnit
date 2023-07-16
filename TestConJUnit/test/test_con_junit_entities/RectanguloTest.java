@@ -41,8 +41,8 @@ class RectanguloTest {
     void deberiaActivarODesactivar() {
 
         Rectangulo r = new Rectangulo(5, 5);
-        assertTrue(r.isActive());
-        r.setActive(false);
         assertFalse(r.isActive());
+        r.setActive(true);
+        assertTrue(r.isActive());
     }
 }
