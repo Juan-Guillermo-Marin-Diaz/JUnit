@@ -1,7 +1,7 @@
 package test_con_junit_entities;
 
 public class Rectangulo {
-
+    //Definimos los atributos
     private double ancho;
     private double largo;
     private String color;
